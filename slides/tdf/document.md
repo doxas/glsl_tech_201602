@@ -15,7 +15,7 @@
 
 公式ページ：
 
-<a href="http://tokyodemofest.jp/2016/">Tokyo Demo Fest 2016</a>
+<a href="http://tokyodemofest.jp/2016/" target="_blank">Tokyo Demo Fest 2016</a>
 
 ---
 
